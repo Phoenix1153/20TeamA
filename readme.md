@@ -1,6 +1,10 @@
 # PyTorchPlus
 
-## **Dependencies**
+## Summary
+
+**PyTorchPlus** is a compositive package of deep learning algorithms involving areas of *adversarial attack*, *model compression*, *object detection*, *reading comprehension* and *active learning*.
+
+## Dependencies**
 
 General dependencies for installing **PyTorchPlus**
 
