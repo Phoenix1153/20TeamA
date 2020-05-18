@@ -4,7 +4,7 @@
 
 **PyTorchPlus** is a compositive package of deep learning algorithms involving areas of *adversarial attack*, *model compression*, *object detection*, *reading comprehension* and *active learning*.
 
-## Dependencies**
+## Dependencies
 
 General dependencies for installing **PyTorchPlus**
 
@@ -19,6 +19,12 @@ General dependencies for installing **PyTorchPlus**
 | **scikit-learn** | **0.22.1**   |
 | **spacy**        | **>=2.0.11** |
 | **ujson**        | **>=1.35**   |
+
+For **reading comprehension module**, please download Spacy language models:
+
+```shell
+python -m spacy download en
+```
 
 For **detection module**, additional dependencies are required including:
 
